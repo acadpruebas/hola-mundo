@@ -1,11 +1,1 @@
- El volumen de la unidad D es ALMACEN
- El n£mero de serie del volumen es: FACB-2659
-
- Directorio de D:\Comp\hola-mundo
-
-21/05/2018  19:47    <DIR>          .
-21/05/2018  19:47    <DIR>          ..
-21/05/2018  19:47                 0 nuevo.txt
-21/05/2018  19:47               114 README.md
-               2 archivos            114 bytes
-               2 dirs  857.357.230.080 bytes libres
+Hola mundo
